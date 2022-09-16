@@ -1,0 +1,27 @@
+body {
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 40px;
+    color:crimson;
+    letter-spacing: -0.05;
+    text-shadow: 1px 1px 1px #666;
+}
+
+p, li, section {
+    color: #333;
+    margin-top: 5px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+footer {
+height: 350px;
+}
